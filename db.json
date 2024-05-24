@@ -1,0 +1,24 @@
+{
+  "habits": [
+    {
+      "id": "cd50",
+      "name": "over-sleeping",
+      "stoppageTime": "7/8/2020"
+    },
+    {
+      "id": "fbe1",
+      "name": "Smoking",
+      "stoppageTime": "5/5/2020"
+    },
+    {
+      "id": "de16",
+      "name": "drinking",
+      "stoppageTime": "12/8/2021"
+    },
+    {
+      "id": "56e9",
+      "name": "smoking",
+      "stoppageTime": "2024-05-22"
+    }
+  ]
+}
